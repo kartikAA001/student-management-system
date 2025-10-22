@@ -1,4 +1,4 @@
-# Student Management System ---
+# --- Student Management System ---
 
 This is a simple **Student Management System** built using Python and SQLite.  
 It helps you manage student records — such as adding, updating, deleting, and viewing student information — all stored in a local database.
@@ -12,6 +12,6 @@ It helps you manage student records — such as adding, updating, deleting, and 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Technologies Used
+## Technologies Used
 - Python 3
 - SQLite(for the database)
